@@ -100,22 +100,22 @@ for i in range(0,9):
 ## Output
 
 ### Original Image
-<br>
+
 ![image](https://github.com/Goutham2306/Thresholdingg/assets/138971154/654add83-5070-40fd-8b1b-fca0a3082fe6)
 <br>
 ### Global Thresholding
 
 
 ![image](https://github.com/Goutham2306/Thresholdingg/assets/138971154/eed1b530-7c0a-4740-baac-f2317c58e0f0)
-
+<br>
 ### Adaptive Thresholding
-<br>
+
 ![image](https://github.com/Goutham2306/Thresholdingg/assets/138971154/9b45f47d-ad58-4a42-99b1-7162ff72a668)
-
-### Optimum Global Thesholding using Otsu's Method
 <br>
-![image](https://github.com/Goutham2306/Thresholdingg/assets/138971154/233cd2cb-263b-470f-a9cb-5e76a255ead0)
+### Optimum Global Thesholding using Otsu's Method
 
+![image](https://github.com/Goutham2306/Thresholdingg/assets/138971154/233cd2cb-263b-470f-a9cb-5e76a255ead0)
+<br>
 
 ## Result
 Thus the images are segmented using global thresholding, adaptive thresholding and optimum global thresholding using python and OpenCV.

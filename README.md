@@ -100,12 +100,12 @@ for i in range(0,9):
 ## Output
 
 ### Original Image
-
+<br>
 ![image](https://github.com/Goutham2306/Thresholdingg/assets/138971154/654add83-5070-40fd-8b1b-fca0a3082fe6)
 <br>
 ### Global Thresholding
 
-<br>
+
 ![image](https://github.com/Goutham2306/Thresholdingg/assets/138971154/eed1b530-7c0a-4740-baac-f2317c58e0f0)
 
 ### Adaptive Thresholding

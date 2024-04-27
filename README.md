@@ -32,9 +32,9 @@ Use Otsu's method to segment the image and display the results.
 ## Program
 Developed By : Goutham.K
 Register Number : 212223110019
-```python
-# Load the necessary packages
 
+# Load the necessary packages
+```python
 
 
 import numpy as np
